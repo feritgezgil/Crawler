@@ -1,0 +1,10 @@
+c:\users\aribilgi\source\repos\Crawler\Crawler\bin\Debug\Crawler.exe.config
+c:\users\aribilgi\source\repos\Crawler\Crawler\bin\Debug\Crawler.exe
+c:\users\aribilgi\source\repos\Crawler\Crawler\bin\Debug\Crawler.pdb
+c:\users\aribilgi\source\repos\Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+c:\users\aribilgi\source\repos\Crawler\Crawler\bin\Debug\HtmlAgilityPack.pdb
+c:\users\aribilgi\source\repos\Crawler\Crawler\bin\Debug\HtmlAgilityPack.xml
+c:\users\aribilgi\source\repos\Crawler\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+c:\users\aribilgi\source\repos\Crawler\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+c:\users\aribilgi\source\repos\Crawler\Crawler\obj\Debug\Crawler.exe
+c:\users\aribilgi\source\repos\Crawler\Crawler\obj\Debug\Crawler.pdb
